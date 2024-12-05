@@ -7,3 +7,12 @@
   <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=GOLDEN+MEGA+MD+WHATSAPP+BOT" alt="">
 </p>
+
+
+**👇FORK REPO(A MUST)**
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
+  
+- This is essential for you to obtain your own safe forked deployable repo especially heroku users.
+
+<a href=
