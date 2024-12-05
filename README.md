@@ -13,6 +13,6 @@
 <details>
 <summary>𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘</summary>
   
-- This is essential for you to obtain your own safe forked deployable repo especially heroku users.
+- pleas fork to my golden mega md bot .
 
 <a href="https://github.com/megaking789/GOLDEN-MEGA-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GOLDEN-MEGA-MD" width="150"></a>
