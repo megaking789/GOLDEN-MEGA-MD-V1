@@ -17,6 +17,11 @@
 
 <a href="https://github.com/megaking789/GOLDEN-MEGA-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GOLDEN-MEGA-MD" width="150"></a>
 <details>
+
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+  ### 𝟐. 𝐋𝐈𝐍𝐊 𝐖𝐈𝐓𝐇 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
+   
 <summary>GET YOUR SESSION_ID</summary>
 <a href="https://session.megatedtech.my.id"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
 
