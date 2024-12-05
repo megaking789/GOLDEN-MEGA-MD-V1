@@ -16,3 +16,9 @@
 - pleas fork to my golden mega md bot .
 
 <a href="https://github.com/megaking789/GOLDEN-MEGA-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK GOLDEN-MEGA-MD" width="150"></a>
+<details>
+<summary>GET YOUR SESSION_ID</summary>
+<a href="https://session.megatedtech.my.id"><img src="https://img.shields.io/badge/CLICK%20HERE-green" alt="Pairing Code" width="150"></a>
+
+- Session ID must start with **Gifted~** and is 15 characters in length.
+</details>
