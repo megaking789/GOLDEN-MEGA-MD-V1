@@ -174,3 +174,5 @@ app.listen(port, () => console.log(`Server listening on port http://localhost:${
 setTimeout(() => {
 connectToWA()
 }, 4000); 
+
+                               🍁 │𝙎𝙇 │𝙂𝙊𝙇𝘿𝙀𝙉 𝙈𝙀𝙂𝘼 │𝐌𝐃│𝐕1🍁
