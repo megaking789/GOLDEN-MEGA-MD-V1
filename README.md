@@ -8,9 +8,8 @@
 
 <p align="center"> 
   
-
-  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=GOLDEN+MEGA+MD+WHATSAPP+BOT" alt="">
+<p align="center">
+  <a   href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=GOLDEN+MEGA+MD+WHATSAPP+BOT" alt="">
 </p>
 
 <hr>
@@ -42,3 +41,44 @@
 
 - Session ID must start with **Gifted~** and is 15 characters in length.
 </details>
+
+
+<p align="center">
+  <a   href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=COPY+WORKFLOW+CODE" alt="">
+</p>
+
+```
+name: Node.js CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [20.x]
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Start application
+      run: npm start
+```
