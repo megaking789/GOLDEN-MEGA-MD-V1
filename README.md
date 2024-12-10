@@ -13,6 +13,9 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=GOLDEN+MEGA+MD+WHATSAPP+BOT" alt="">
 </p>
 
+<hr>
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=WELCOME+TO+GOLDEN+MEGA-MD...;Created+by+megaking...;Mega+Best+Whatsapp+User+Bot...;SIMPLE+FAST+DEPLOYD+Bot...;Simple+And+COMPLETE+Deploy...;Thank+You+For+Using+MEGA-MD..."
+            alt="Typing">
 
 
 ## 𝟏. 𝐒𝐄𝐓 𝐔𝐏:
