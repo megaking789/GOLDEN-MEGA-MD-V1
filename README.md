@@ -5,7 +5,10 @@
  <p align="center">
   <a href="https://ibb.co/P6T5K1c"><img src="https://i.ibb.co/G5sVyCW/GOLDEN-MEGA-MD.png" alt="GOLDEN-MEGA-MD" border="0"></a>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=PLEASE+USER+DEPLOYD+MY+WHATSAPP+BOT)](https://git.io/typing-svg)
+  
 <p align="center"> 
   
 <p align="center">
