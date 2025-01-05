@@ -13,7 +13,7 @@
 
 [![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://www.youtube.com/@darknamemusic) [![FaceBook](https://telegra.ph/file/7d9dcbcad846a646f09f0.jpg)]() 
 [![Whatsapp group](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029Vb1oyIFKwqSWn4uoN43D)
-
+[![Whatsapp group](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94768859286?text=%CA%9C%E1%B4%87%CA%8F_max_sav_me%F0%9F%A5%BA%F0%9F%A9%B7%E2%84%A2%EF%B8%8F)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=PLEASE+USER+DEPLOYD+MY+WHATSAPP+BOT)](https://git.io/typing-svg)
 
 </details>
