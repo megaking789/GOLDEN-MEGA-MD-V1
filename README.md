@@ -7,7 +7,16 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
+</details>
+
+## SOCIAL MEDIA
+
+[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://www.youtube.com/@darknamemusic) [![FaceBook](https://telegra.ph/file/7d9dcbcad846a646f09f0.jpg)]() 
+[![Whatsapp group](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029Vb1oyIFKwqSWn4uoN43D)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=PLEASE+USER+DEPLOYD+MY+WHATSAPP+BOT)](https://git.io/typing-svg)
+
+</details>
   
 <p align="center"> 
   
@@ -18,7 +27,6 @@
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=WELCOME+TO+GOLDEN+MEGA-MD...;Created+by+megaking...;Mega+Best+Whatsapp+User+Bot...;SIMPLE+FAST+DEPLOYD+Bot...;Simple+And+COMPLETE+Deploy...;Thank+You+For+Using+MEGA-MD..."
             alt="Typing">
-
 
 ## 𝟏. 𝐒𝐄𝐓 𝐔𝐏:
 
@@ -85,3 +93,24 @@ jobs:
     - name: Start application
       run: npm start
 ```
+
+
+
+
+## Available Features
+	
+| Features |  Availability |
+| :------: |  :----------: |
+|   Convert     |       ✔️     |
+|   Database     |       ✔️     |
+|   Owner     |       ✔️    |
+|   Downloader     |       ✔️     |
+|   Webzone     |       ✔️       |
+|   Searching     |       ✔️      |
+|   Textpro     |       ✔️      |
+|   Ephoto     |       ✔️     |
+|   Anime Web     |       ✔️      |
+|   Stalker     |       ✔️      |
+|   Random Text     |       ✔️     |
+|   Random Image     |       ✔️     |
+|   Creator     |       ✔️      |
