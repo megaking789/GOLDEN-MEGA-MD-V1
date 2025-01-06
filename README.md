@@ -1,3 +1,6 @@
+<h1 align="center"> SRI LANKA</h1> 
+<h2 align="center"> GOLDEN MEGA MD VERSION 1.0</h2>
+
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0004FF&random=false&width=435&lines=GOLDEN+MEGA+MD+BOT+%F0%9F%A6%8B)](https://git.io/typing-svg)
 
 
@@ -5,6 +8,10 @@
  <p align="center">
   <a href="https://ibb.co/P6T5K1c"><img src="https://i.ibb.co/NrCZf2n/Web-Photo-Editor.jpg" alt="GOLDEN-MEGA-MD" border="0"></a>
 </p>
+
+[![wasi tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=008000&background=F7F2F20A&vCenter=true&random=false&width=465&lines=Hello+Everyone%F0%9F%91%8B!;thank+you+for+visiting+my+Repo;I+am+GOLDEN+MEGA+MD+V1+admin+founder+of+this;project;and+creator+too;i'm+looking+forwad+for+your+feedback;love+you+💖+🫂+💕;please!!;read+carefully+this+document;we+are+not+responsible+for+any;faults+or+mistakes+done;by+mx..dila+this+app+😕🙃)](https://github.com/Kingjux)
+
+ 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 </details>
