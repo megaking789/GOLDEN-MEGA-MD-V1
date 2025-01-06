@@ -59,7 +59,7 @@
 <summary>TAP TO OPEN</summary>
 <a href=""><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
 
-<a href="UCsw2UjTe8MXo0BIcSpLYjlQ"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
+<a href="https://www.youtube.com/channel/UCsw2UjTe8MXo0BIcSpLYjlQ"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
 </details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
