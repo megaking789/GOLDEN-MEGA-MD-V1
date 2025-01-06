@@ -1,5 +1,5 @@
 <h1 align="center"> SRI LANKA</h1> 
-<h2 align="center"> GOLDEN MEGA MD VERSION 1.0</h2>
+<h2 align="center"> GOLDEN MEGA MD VERSION 1.2.8</h2>
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0004FF&random=false&width=435&lines=GOLDEN+MEGA+MD+BOT+%F0%9F%A6%8B)](https://git.io/typing-svg)
 
