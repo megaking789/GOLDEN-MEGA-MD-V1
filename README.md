@@ -57,9 +57,9 @@
 **(A) HOST ON TALKDROVE**
 <details>
 <summary>TAP TO OPEN</summary>
-<a href="https://host.talkdrove.com"><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
+<a href=""><img src="https://img.shields.io/badge/TALKDROVE%20SIGNUP-green" alt="TalkDrove" width="150"></a>
 
-<a href="https://youtu.be/YG3-oV2cVj8?feature=shared"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
+<a href="UCsw2UjTe8MXo0BIcSpLYjlQ"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-red" alt="TalkDrove Tutorial" width="150"></a>
 </details>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
